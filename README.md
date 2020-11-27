@@ -1,4 +1,4 @@
-<img src="https://github.com/adam2021/CV/blob/master/cv-header.jpg">
+<img src="https://github.com/adam2021/CV/blob/master/cv-header.jpg" alt="Adam Patel - Software Engineer">
 
 ## Adam Patel
 

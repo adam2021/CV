@@ -1,5 +1,5 @@
 <img src="https://github.com/adam2021/CV/blob/master/cv-header.jpg" alt="Adam Patel - Software Engineer">
-<title>Adam Patel - Software Engineer, Full Stack Developer</title>
+
 ## Adam Patel
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
